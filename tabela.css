@@ -1,0 +1,52 @@
+
+.table td {
+    border-top: 0px solid #ebf0ee;
+    color: #000000;
+}
+
+.titulo th{
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;  
+}
+.titulo th{
+    background-color: #E8EBEF;
+    border: none;
+    color: #6B6C6D; 
+}
+
+.body td{
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.condcolor {
+    color: white !important;
+    border-radius: 5px;
+    padding: 0.2em 1.5em;
+}
+
+.condcolor-blue {
+    background-color: #007bff;
+}
+.condcolor-green {
+    background-color: #28a745;
+}
+.condcolor-red {
+    background-color: #E82431;
+}
+
+.blue {
+    color: rgb(9, 15, 197) !important;
+}
+
+.yellow {
+    color: rgb(241, 204, 19) !important;
+}
+
+.red {
+    color: rgb(243, 9, 24) !important;
+}
